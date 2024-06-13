@@ -2,6 +2,12 @@
 
 This is a basic TypeScript project using React 
 
+# How it works
+U can write HTML, css, and javascript in the respective editor and you can see the output in the output frame like below. 
+![image](https://github.com/Pprerana/code-simuator/assets/116632333/37a0437e-8821-4b5e-ab3a-b2c7f497cfc3)
+
+
+
 # How to Create a TypeScript in React
  1. Run npx create-react-app code-simulator --template typescript
  2. the folder code-simulator with tsconfig.json will be created
