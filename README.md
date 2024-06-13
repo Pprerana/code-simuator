@@ -8,7 +8,7 @@ This is a basic TypeScript project using React
 
 # How to run code simualtor on Your local machine
 
- 1. Go to https://github.com/Pprerana/code-simuator
+ 1. Go to https://github.com/Pprerana/code-simuator/tree/master
  2. Fork the code-simuator repository onto your Github repository.
  3. Copy the SSH link.
  4. Open the CMD and navigate to the folder in which you want to run code-simuator.
@@ -16,4 +16,4 @@ This is a basic TypeScript project using React
  6. The source code of code-simuator should now be present on your local machine.
 
 # How to report issues?
- For now, we are using Issues on GitHub to track issues - https://github.com/Pprerana/code-simuator/issues
+ For now, we are using Issues on GitHub to track issues - https://github.com/Pprerana/code-simuator/tree/master/issues
